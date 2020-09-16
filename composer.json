@@ -41,7 +41,7 @@
             "database/seeds",
             "database/factories"
         ],
-        "file":[
+        "files":[
             "app/Utils/helpers.php"
         ]
     },
